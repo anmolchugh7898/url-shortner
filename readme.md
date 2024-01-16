@@ -4,7 +4,7 @@ This is an URL shortener service like bit.ly or cutt.ly. The front-end is not co
 
 ## Screenshots
 
-![Working](https://ibb.co/3hhFG7h)
+![Working](https://file.io/C0gpVNTbq3xH)
 
 ## Run Locally
 
